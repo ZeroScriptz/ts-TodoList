@@ -1,0 +1,22 @@
+{
+  "name": "ts-todolist",
+  "version": "1.0.0",
+  "description": "typescript to-do list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeroScriptz/ts-TodoList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeroScriptz/ts-TodoList/issues"
+  },
+  "homepage": "https://github.com/ZeroScriptz/ts-TodoList#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
